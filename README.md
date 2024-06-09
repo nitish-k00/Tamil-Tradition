@@ -16,4 +16,8 @@ Follow these steps to set up and run the project locally.
 
 Clone the repository to your local machine using the following command:
 
+```sh
+git clone https://github.com/nitish-k00/Tamil-Tradition.git
+cd Tamil-Tradition
+
 
